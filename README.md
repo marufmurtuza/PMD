@@ -1,2 +1,2 @@
-# PMD (Still In Development Phase)
+# PMD (Still Under Development)
 A basic gui tool for detecting malicious file.
